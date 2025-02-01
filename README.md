@@ -68,14 +68,20 @@ python test.py
 If it's helpful to your research, please kindly cite. Here is an example BibTeX entry:
 
 ``` bibtex
-@misc{zhao2025plugandplaydisepseparatingdense,
-      title={Plug-and-Play DISep: Separating Dense Instances for Scene-to-Pixel Weakly-Supervised Change Detection in High-Resolution Remote Sensing Images}, 
-      author={Zhenghui Zhao and Chen Wu and Lixiang Ru and Di Wang and Hongruixuan Chen and Cuiqun Chen},
-      year={2025},
-      eprint={2501.04934},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2501.04934}, 
+@article{Zhao2025,
+  title = {Plug-and-play DISep: Separating dense instances for scene-to-pixel weakly-supervised change detection in high-resolution remote sensing images},
+  author = {Zhenghui Zhao and Chen Wu and Lixiang Ru and Di Wang and Hongruixuan Chen and Cuiqun Chen},
+  journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume = {220},
+  pages = {770-782},
+  year = {2025}
+}
+
+@article{zhao2025plug,
+  title={Plug-and-Play DISep: Separating Dense Instances for Scene-to-Pixel Weakly-Supervised Change Detection in High-Resolution Remote Sensing Images},
+  author={Zhao, Zhenghui and Wu, Chen and Ru, Lixiang and Wang, Di and Chen, Hongruixuan and Chen, Cuiqun},
+  journal={arXiv preprint arXiv:2501.04934},
+  year={2025}
 }
 ```
 
