@@ -22,7 +22,7 @@ work_dir:
 train:
   split: train
   batch_size: 32  #
-  max_iters: 25000
+  max_iters: 8000
   cam_iters: 400   # 200, 400     # 2000, 5000，初始单独的iters，该cam_iters开始加入pixel pred
   eval_iters: 200
   log_iters: 200

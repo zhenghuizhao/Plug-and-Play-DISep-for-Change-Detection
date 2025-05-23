@@ -48,7 +48,7 @@ class DISEP_Loss(nn.Module):
         # print('loss_pixel:', loss_pixel)
         # print('reg_hard:', reg_hard)
 
-        return loss_pixel
+        return loss_pixel   # + 0.001 * reg_hard
 
 
     def forward(self, centers, feat_inst_dict, mask_inst_dict, cls_label):    # , feat_mask_c, feat_mask_uc, feat_mask_c_cent, feat_mask_uc_cent

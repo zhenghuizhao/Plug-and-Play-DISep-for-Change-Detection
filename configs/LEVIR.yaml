@@ -22,7 +22,7 @@ work_dir:
 train:
   split: train
   batch_size: 8   # 8
-  max_iters: 50000
+  max_iters: 8000
   cam_iters: 500    #2000
   eval_iters: 500   #500
   log_iters: 500    #500
