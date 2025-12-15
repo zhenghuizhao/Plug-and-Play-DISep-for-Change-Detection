@@ -68,7 +68,7 @@ python test.py
 If it's helpful to your research, please kindly cite. Here is an example BibTeX entry:
 
 ``` bibtex
-@article{Zhao2025,
+@article{Zhao2025plug,
   title = {Plug-and-play DISep: Separating dense instances for scene-to-pixel weakly-supervised change detection in high-resolution remote sensing images},
   author = {Zhenghui Zhao and Chen Wu and Lixiang Ru and Di Wang and Hongruixuan Chen and Cuiqun Chen},
   journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
